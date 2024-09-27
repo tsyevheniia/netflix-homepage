@@ -1,6 +1,9 @@
-# Project Title
+# Netflix Landing page
 
-A brief description of what this project does and who it's for.
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/8ede2e05-7751-4a48-ab8c-4c9378ffe4a2">
+
+Example in image.
+
 
 ## Installation
 
