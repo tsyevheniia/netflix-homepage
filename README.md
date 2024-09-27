@@ -13,22 +13,10 @@ Example in image.
     ```
 2. Navigate to the project directory:
     ```sh
-    cd your-repo
-    ```
-3. Install dependencies:
-    ```sh
-    npm install
+    cd netflix_homepage
     ```
 
-## Usage
-
-Provide examples of how to use the project:
-
-```sh
-node your-script.js
-```
-
-## Contributing
+## Contribution
 
 1. Fork the repository.
 2. Create a new branch (git checkout -b feature-branch).
